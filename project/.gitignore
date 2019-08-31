@@ -1,0 +1,4 @@
+#we are ignoring all the files built by extensions
+*.o
+#exe files
+\bin\*
